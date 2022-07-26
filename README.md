@@ -1,4 +1,4 @@
 ### Hi there 👋
 - 🌱 I’m currently learning how to become great software architect. 
 - 📫 How to reach me: kamil.siebyla@gmail.com.
-![screen-gif](https://giphy.com/clips/bestfriends-Z3e2HuMMqqSLmN5Qqu)
+<img src="https://media.giphy.com/media/U7c2TesYruxCiw11qK/giphy.gif" width="300">

@@ -9,9 +9,6 @@
 ## 🌐 Socials
 
 [![LinkedIn][badge_linkedin]][link_linkedin]
-
-## 📈 My GitHub Stats
-
   
 [link_linkedin]: https://www.linkedin.com/in/kamilsiebyla
 [badge_linkedin]: https://img.shields.io/badge/LinkedIn-KamilSiebyła-blue?style=for-the-badge&logo=linkedin
